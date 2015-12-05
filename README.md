@@ -1,3 +1,28 @@
+Alex Palma Project 4
+
+I first started out by trying to run ngrok as stated in the instructions. 
+It didn't work. i downloaded python, node.js, tried using grunt and spent way to much time trying to get that stuff up and running when I decided i'll fix the code first and then figure out the problems with ngrok.
+
+I read through the forums and instructions and first changed the for loop in main.js. It seemed to run well on my local machine. 
+
+Next I added the async to the js links in index.html
+
+Inlining the css took some time too before I searched the forums and found a solution. 
+
+I have started and restarted this project 3 times, scrapping two repo's because I overloaded them with grunt files and node modules. 
+
+I used a webservice to compress the images first, but it was still kinda big, So i used Gimp to further compress the images.
+
+
+
+
+
+
+
+
+
+
+
 ## Website Performance Optimization portfolio project
 
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
